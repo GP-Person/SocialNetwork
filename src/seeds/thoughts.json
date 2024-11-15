@@ -1,0 +1,27 @@
+[
+    {
+        "username": "user1",
+        "thoughtText": "Exploring new cities is always fun until someone steals your wallet. :(",
+        "createdAt": "2023-10-01T10:00:00.000Z"
+    },
+    {
+        "username": "user2",
+        "thoughtText": "I hate McDonalds. It gave me E coli.",
+        "createdAt": "2023-10-02T12:30:00.000Z"
+    },
+    {
+        "username": "user3",
+        "thoughtText": "I think I have covid",
+        "createdAt": "2023-10-03T15:45:00.000Z"
+    },
+    {
+        "username": "user4",
+        "thoughtText": "Norgwegian Deathgrass music is my favorite genre.",
+        "createdAt": "2023-10-04T18:20:00.000Z"
+    },
+    {
+        "username": "user5",
+        "thoughtText": "I like playing with Barbies.",
+        "createdAt": "2023-10-05T09:15:00.000Z"
+    }
+]
